@@ -1,0 +1,1 @@
+let quotes = ["It's what you wished Smorgasburg was.", "Better than the time you ordered the 10x10 at In-N-Out."]
